@@ -51,3 +51,16 @@ At the end, users are given two more clickable options:
 
 These actions help keep users engaged and informed, allowing them to explore deeper or loop back to other sections.
 
+---
+
+### 🧠 Real-Time Interaction – Typing Questions and Getting Instant Feedback
+
+In addition to selecting options from predefined buttons, the **CAPACITI BOT** also supports free-form text input. This means users can type specific questions or concerns directly into the chat—for example, *“How do I apply for the program?”* or *“What qualifications do I need?”*—and receive instant, context-aware responses. This capability adds flexibility and a more conversational experience, simulating real-time human assistance. It ensures users are not limited to static menus and can get personalized information quickly and efficiently.
+
+
+![CAPACITI Program Overview](Chatbot%20pictures/bot6.PNG)
+
+---
+
+
+
