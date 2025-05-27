@@ -1,3 +1,4 @@
+
 ### 📌 Summary of the CAPACITI Chatbot
 
 The **CAPACITI BOT** is an interactive chatbot developed using Landbot, designed to assist users in navigating the various aspects of CAPACITI’s digital skills development programs. It serves as a user-friendly, automated assistant that provides detailed information on program offerings, application processes, eligibility requirements, FAQs, and more—all in a visually engaging and conversational format. Its main goal is to make information easily accessible and enhance user engagement.
@@ -6,7 +7,7 @@ The **CAPACITI BOT** is an interactive chatbot developed using Landbot, designed
 
 ### 🖼️ Home Interface – Welcome Message
 
-![CAPACITI Chatbot Welcome Screen](attachment:/mnt/data/Bot1.PNG)
+![CAPACITI Chatbot Welcome Screen](Chatbot%20pictures/Bot1.PNG)
 
 The first screen of the CAPACITI BOT greets users warmly with a message:
 
@@ -18,7 +19,7 @@ This friendly tone sets a welcoming atmosphere, inviting users to begin their jo
 
 ### 🖼️ Menu Options – User Interaction Screen
 
-![CAPACITI Chatbot Menu Options](attachment:/mnt/data/bot.PNG)
+![CAPACITI Chatbot Menu Options](Chatbot%20pictures/bot.PNG)
 
 Upon clicking the **Menu**, the chatbot displays a set of rounded button options, making it easy for users to choose what they want to learn more about. These options include:
 
@@ -35,7 +36,7 @@ The layout is clean and intuitive, guiding users to specific areas of interest w
 
 ### 🖼️ Program Overview – Informational Output
 
-![CAPACITI Program Overview](attachment:/mnt/data/bot3.PNG)
+![CAPACITI Program Overview](Chatbot%20pictures/bot3.PNG)
 
 When a user selects **Program Overview**, the bot presents a concise but informative summary of what CAPACITI offers:
 
@@ -50,6 +51,3 @@ At the end, users are given two more clickable options:
 
 These actions help keep users engaged and informed, allowing them to explore deeper or loop back to other sections.
 
----
-
-This chatbot is a strong example of how generative user interface design and AI-powered interaction can streamline communication and empower users with relevant, real-time information in an engaging way.
